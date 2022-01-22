@@ -3,7 +3,6 @@
 - 👀 I’m interested in web/mobile development with focus on backend solutions.
 
 - 🌱 I’m currently learning Rust
-- Into 
 
 Languages
 Clojure Dart Java Python Typescript Javascript Rust Swift
