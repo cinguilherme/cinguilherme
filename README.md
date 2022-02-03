@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @cinguilherme 
+## Hello, I`m cinguilherme
 
 - 👀 I’m interested in web/mobile development with focus on backend solutions.
-
+- 🏗 I`m currently working with Clojure and Flutter 📱
 - 🌱 I’m currently learning Rust
 
-Languages
+### Stats
 
-Clojure Dart Java Python Typescript Javascript Rust Swift
+<div><br>
+    <a href="https://github.com/cinguilherme">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cinguilherme&show_icons=true&theme=dracula&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinguilherme&layout=compact&count_private=true&theme=dracula&langs_count=12&hide=python,html,css">
+</div>
 
 Editors
 
