@@ -44,4 +44,4 @@
 </div>
 
 
-- 📫 My linkedin => https://www.linkedin.com/in/guilherme-cintra-7980b031
+- 📫 Contact [Linkedin](https://www.linkedin.com/in/guilherme-cintra-7980b031) 
