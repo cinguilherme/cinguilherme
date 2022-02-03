@@ -30,7 +30,7 @@
 <img height="50em" alt="terraform" src="https://user-images.githubusercontent.com/613329/152425133-2efe8db4-a254-4525-b3c7-254ed4719450.png">
 </div>
 
-###### -
+
 
 <div style="display: flex"><br>
 <img height="30em" src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white">
