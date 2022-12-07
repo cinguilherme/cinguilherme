@@ -1,7 +1,8 @@
 ## Hello, I`m cinguilherme
 
 - 👀 I’m interested in web/mobile development with focus on backend solutions.
-- 🏗 I`m currently working with Clojure and Flutter 📱
+- 🏗 I`m currently working with Js/Typescript
+- Up to recently Recently I was working with Clojure and Flutter 📱
 - 🌱 I’m currently learning Rust
 
 
