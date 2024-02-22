@@ -1,12 +1,5 @@
 ## Hello, I`m cinguilherme
 
-<div><br>
-    <a href="https://github.com/cinguilherme">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cinguilherme&show_icons=true&theme=dracula&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinguilherme&layout=compact&count_private=true&theme=dracula&langs_count=12&hide=python,html,css">
-</div>
-
-
 
 <div style="display: flex"><br>
 <img height="30em" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
