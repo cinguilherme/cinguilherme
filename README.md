@@ -1,11 +1,5 @@
 ## Hello, I`m cinguilherme
 
-- 👀 I’m interested in web/mobile development with focus on backend solutions.
-- 🏗 I`m currently working with Js/Typescript
-- Up to recently Recently I was working with Clojure and Flutter 📱
-- 🌱 I’m currently learning Rust
-
-
 <div><br>
     <a href="https://github.com/cinguilherme">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cinguilherme&show_icons=true&theme=dracula&count_private=true">
